@@ -1,0 +1,9 @@
+{
+    "model_type":"stog",
+    "version":"0.1.0", 
+    "date":"2020-12-12",
+    "inference_module":".parse_t5.inference", 
+    "inference_class":"Inference",
+    "model_fn":"pytorch_model.bin",
+    "kwargs":{}
+}
